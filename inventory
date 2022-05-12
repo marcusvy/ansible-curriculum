@@ -1,0 +1,2 @@
+[frontend]
+ servidor ansible_host=localhost

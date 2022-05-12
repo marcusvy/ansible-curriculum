@@ -1,0 +1,6 @@
+...
+- name: Implantar frontend
+  hosts: localhost
+  tasks:
+    - name: Instalar servidor web Nginx
+      module:
